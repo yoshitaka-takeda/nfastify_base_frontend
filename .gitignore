@@ -1,0 +1,12 @@
+# Skip cache,tmp,vendor,etc. folder
+cache/
+.phalcon/
+tmp/
+vendor/
+node_modules/
+
+# Skip environment files
+.env
+
+# Skip .htaccess file
+.htaccess

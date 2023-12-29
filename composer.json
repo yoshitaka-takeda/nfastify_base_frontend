@@ -1,0 +1,14 @@
+{
+    "name": "bmm/auction",
+    "description": "BMM Auction frontend package",
+    "type": "library",
+    "license": "ISC",
+    "autoload": {
+        "psr-4": {
+            "Isilud\\Auction\\": "src/"
+        }
+    },
+    "require-dev": {
+        "josegonzalez/dotenv": "^4.0"
+    }
+}
